@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/random-blood-sugar---primary.py
+inputModule3:
+  class: File
+  path: python/abnormal-blood-sugar---primary.py
+inputModule4:
+  class: File
+  path: python/blood-sugar-raised---primary.py
+inputModule5:
+  class: File
+  path: python/blood-sugar-fasting---primary.py
+inputModule6:
+  class: File
+  path: python/blood-sugar---primary.py
+inputModule7:
+  class: File
+  path: python/blood-sugar-minute---primary.py
+inputModule8:
+  class: File
+  path: python/blood-sugar-level---primary.py
+inputModule9:
+  class: File
+  path: python/blood-sugar-glucose---primary.py
+inputModule10:
+  class: File
+  path: python/blood-sugar-result---primary.py
+inputModule11:
+  class: File
+  path: python/blood-sugar-tolerance---primary.py
+inputModule12:
+  class: File
+  path: python/blood-sugar-serum---primary.py
+inputModule13:
+  class: File
+  path: python/normal-blood-sugar---primary.py
+inputModule14:
+  class: File
+  path: python/blood-sugar-sample---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
